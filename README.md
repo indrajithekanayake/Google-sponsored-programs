@@ -4,8 +4,9 @@
 <h1 align="middle">Google-sponsored-programs</h1>
 Google offers multidisciplinary programs throughout the world and for all types of audiences. From coding summer programs for pre-university students to residencies for degree holders looking to develop their experience, our programs are meant to inspire and grow their participants. To see all of our programs, visit the programs page of ther<a href="Google offers multidisciplinary programs throughout the world and for all types of audiences. From coding summer programs for pre-university students to residencies for degree holders looking to develop their experience, our programs are meant to inspire and grow their participants. To see all of our programs, visit the programs page of our EDU site. ">EDU site</a>.
 
-| Name                                    | Timeline            |
-|-----------------------------------------|-----------------|
-| [Computer Science Summer Institute (CSSI)](https://www.google.com/edu/resources/programs/computer-science-summer-institute/) | [timeline]() |
-| [AdCamp](https://www.google.com/edu/resources/programs/adcamp/) | [timeline]() |
+| Name                                    | Timeline            |Apply            |Discripion            |
+|-----------------------------------------|-----------------|-----------------|-----------------|
+| [Computer Science Summer Institute (CSSI)](https://www.google.com/edu/resources/programs/computer-science-summer-institute/) | [timeline]() |[]() |This three-week summer program invites high school graduates to Google to be inspired by a career in technology. Participants will learn about the technology industry, gain skills, and develop personal networks. |
+| [AdCamp](https://www.google.com/edu/resources/programs/adcamp/) |[timeline]() |[Apply2019](https://docs.google.com/forms/d/e/1FAIpQLSejuiZhlf3K1OG0TDFH03iFSyt2nYhpckMhKR6S326t8wvRvA/viewform) |  The AdCamp program offers university students a collaborative curriculum focused on Google’s advertising sales and services operations, an overview of Google’s ad products, and insight into the industry. |
+| [Engineering Residency](https://www.google.com/about/careers/students/engres.html) |[timeline]() |[Apply2019](https://www.google.com/about/careers/jobs#!t=jo&jid=/google/engineering-resident-university-graduate-1600-amphitheatre-pkwy-mountain-view-ca-2638360187&) | A program for graduating college seniors (or graduates with less than a year in the industry), the Engineering Residency offers a kick-start to your career in technology. |
 
