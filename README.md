@@ -22,7 +22,7 @@ Google offers multidisciplinary programs throughout the world and for all types 
 
 <h1 align="middle" ><a href="https://www.google.com/intl/es_ALL/about/careers/fields-of-work/">Fields of work</a></h1>
 
-<h1 align="middle" >| Name                                    |
+| Name                                    |
 |-----------------------------------------|
 | [Google Cloud](https://www.google.com/intl/es_ALL/about/careers/cloud/) |
 | [Engineering & Technology](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/engineering-technology/) |
@@ -33,7 +33,7 @@ Google offers multidisciplinary programs throughout the world and for all types 
 | [Finance](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/finance/) |
 | [Legal](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/legal/) |
 | [People](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/people/) |
-| [Facilities](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/facilities/) |</h1>
+| [Facilities](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/facilities/) |
 
 
 
