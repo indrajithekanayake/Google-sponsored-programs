@@ -20,5 +20,24 @@ Google offers multidisciplinary programs throughout the world and for all types 
 | [Public Policy Fellowship](https://www.google.com/policyfellowship/) |[]() |Offered in various countries, the Fellowship gives undergraduate, graduate, and law students interested in internet and technology policy the opportunity to spend the summer contributing to the public dialogue on these issues, all while exploring future academic and professional interests.|
 
 
+<h1 align="middle" ><a href="https://www.google.com/intl/es_ALL/about/careers/fields-of-work/">Fields of work</a></h1>
+
+<h1 align="middle" >| Name                                    |
+|-----------------------------------------|
+| [Google Cloud](https://www.google.com/intl/es_ALL/about/careers/cloud/) |
+| [Engineering & Technology](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/engineering-technology/) |
+| [Sales, Service & Support](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/sales-service-support/) |
+| [Marketing & Communications](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/marketing-communications/) |
+| [Design](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/design/) |
+| [Business Strategy](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/business-strategy/) |
+| [Finance](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/finance/) |
+| [Legal](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/legal/) |
+| [People](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/people/) |
+| [Facilities](https://www.google.com/intl/es_ALL/about/careers/fields-of-work/facilities/) |</h1>
+
+
+
+
+
 
 
